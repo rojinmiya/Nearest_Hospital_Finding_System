@@ -12,4 +12,4 @@ module.exports = {
     directory: path.resolve(__dirname, './migrations'),
   },
   useNullAsDefault: false
-};
+}; 
