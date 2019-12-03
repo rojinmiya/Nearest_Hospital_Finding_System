@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/rojinmiya/Nearest_Hospital_Finding_System#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "knex": "^0.20.3"
   }
 }
